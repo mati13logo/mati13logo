@@ -25,8 +25,6 @@
 
 - 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | ReactJS
 
-- 📱 &nbsp; React Native
-
 <h3>🛠 To Learn</h3>
 
 - 🔧 &nbsp; Gatsby | NextJs | Firebase | GraphQL | Python | React Native
